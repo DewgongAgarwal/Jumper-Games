@@ -1,7 +1,5 @@
 # Jumper-Games
 Basic Prototype for a game involving platforms, a jumper, obstacles and a shoot
-//email id : agdewang@outlook.com
-
 import java.awt.event.*; 
 import java.awt.*;
 import javax.swing.*;
